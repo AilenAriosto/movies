@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["generos"],{"9a8e":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"about"},[t("Listagenero")],1)},s=[],o=t("0418"),r=t("19bb"),u={name:"About",components:{Header:o["a"],Listagenero:r["a"]}},c=u,i=t("2877"),l=Object(i["a"])(c,a,s,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=generos.2c35efe3.js.map

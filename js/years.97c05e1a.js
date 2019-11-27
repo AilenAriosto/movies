@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["years"],{1240:function(e,a,n){"use strict";n.r(a);var s=function(){var e=this,a=e.$createElement,n=e._self._c||a;return n("div",{staticClass:"year"},[n("Listayear")],1)},t=[],r=n("0418"),c=n("223b"),i={name:"Years",components:{Header:r["a"],Listayear:c["a"]}},l=i,o=n("2877"),u=Object(o["a"])(l,s,t,!1,null,null,null);a["default"]=u.exports}}]);
+//# sourceMappingURL=years.97c05e1a.js.map
