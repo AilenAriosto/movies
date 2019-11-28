@@ -1,5 +1,4 @@
-{
-  "peliculas": [
+[
     {
       "pelicula": "En la hierba alta",
       "genre1": "Terror",
@@ -291,4 +290,3 @@
    
     
   ]
-}
